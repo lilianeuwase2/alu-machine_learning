@@ -1,0 +1,1 @@
+this readme file shows explaination of what i did  in the exercises 
